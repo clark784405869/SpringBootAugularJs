@@ -1,5 +1,5 @@
 # SpringBootAugularJs
-使用Gradle构建Spring Boot（整合AngularJs）：\n
+使用Gradle构建Spring Boot（整合AngularJs）：<br/>
 前端：AngularJs \n
 后端：Spring Boot Web  \n
      Spring Data Jpa \n
