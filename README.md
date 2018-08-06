@@ -1,10 +1,10 @@
 # SpringBootAugularJs
-使用Gradle构建Spring Boot（整合AngularJs）：
-前端：AngularJs
-后端：Spring Boot Web
-     Spring Data Jpa
-     Rabbitmq 消息处理
-     全局异常处理
+使用Gradle构建Spring Boot（整合AngularJs）：\n
+前端：AngularJs \n
+后端：Spring Boot Web  \n
+     Spring Data Jpa \n
+     Rabbitmq 消息处理  \n
+     全局异常处理 \n\n\n
      
 技术支持：QQ：784405869 
         QQ群：221075973
