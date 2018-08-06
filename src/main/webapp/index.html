@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html >
+  <head>
+   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="stylesheet" href="./bower_components/bootstrap-css-only/css/bootstrap.min.css" />
+  </head>
+  <body ng-app="myApp">
+    <div class="container" ng-controller="AppController">
+      <h1>这是webapp下的页面</h1>
+    <input type="file"  name="files1" >
+    <input type="file"  name="files2">
+    <input type="file"  name="files3" >
+     <!-- <input type="file" multiple="multiple" name="file3" > -->
+    <button ng-click="save()" >submit</button>
+    <button ng-click="filedown()" >down</button>
+   </div>
+    
+    <script type="text/javascript" src="./bower_components/angular/angular.min.js"></script>
+    <script type="text/javascript" src="./bower_components/angular-resource/angular-resource.min.js"></script>
+   <!--  <script type="text/javascript" src="./bower_components/lodash/dist/lodash.min.js"></script> -->
+    <script type="text/javascript" src="./app/app.js"></script>
+    <script type="text/javascript" src="./app/controllers.js"></script>
+    <script type="text/javascript" src="./app/services.js"></script>
+  </body>
+</html>
